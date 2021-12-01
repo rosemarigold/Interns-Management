@@ -1,0 +1,389 @@
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\Application\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\NV 2 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\danie\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 5 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\Semester 5 (Fall 2021)\1-Développement d'application de bureau\NV 6 Projet\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 24\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 25\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau - Nov 26\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\Ma version\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov.27\projet-app-bureau (3)\projet-app-bureau\Projet-App-Bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet\projet-app-bureau Nov 28\projet-app-bureau\projet-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\USER\Desktop\projet2-app-bureau\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
