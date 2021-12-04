@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\projet2-app-bureau\\Projet-App-Bureau\\Projet-App-Bureau.csproj": {}
+    "C:\\Users\\Chuu\\Documents\\test\\application_bureau_projet2\\Projet-App-Bureau\\Projet-App-Bureau.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\projet2-app-bureau\\Projet-App-Bureau\\Projet-App-Bureau.csproj": {
+    "C:\\Users\\Chuu\\Documents\\test\\application_bureau_projet2\\Projet-App-Bureau\\Projet-App-Bureau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\projet2-app-bureau\\Projet-App-Bureau\\Projet-App-Bureau.csproj",
+        "projectUniqueName": "C:\\Users\\Chuu\\Documents\\test\\application_bureau_projet2\\Projet-App-Bureau\\Projet-App-Bureau.csproj",
         "projectName": "Projet-App-Bureau",
-        "projectPath": "C:\\Users\\USER\\Desktop\\projet2-app-bureau\\Projet-App-Bureau\\Projet-App-Bureau.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\projet2-app-bureau\\Projet-App-Bureau\\obj\\",
+        "projectPath": "C:\\Users\\Chuu\\Documents\\test\\application_bureau_projet2\\Projet-App-Bureau\\Projet-App-Bureau.csproj",
+        "packagesPath": "C:\\Users\\Chuu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chuu\\Documents\\test\\application_bureau_projet2\\Projet-App-Bureau\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Chuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -69,7 +67,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -255,6 +255,74 @@ namespace Projet_App_Bureau
                 MessageBox.Show("Opération échoué !", "Veuillez mettre des entrées valides");
             }
         }
+        /// <summary>
+        /// Méthode qui ajoute un nouveau stagiaire dans la liste des programmes.
+        /// </summary>
+        /// <param name="P"></param>
+        private void AjouterStagiaire(int numéro, string nom, string prénom, string dateDeNaissance, string sexe, string nomProgramme)
+        {
+            // Requête SQL pour ajouter un nouveau stagiaire,  @paramètres
+            string queryAddStagiaire = "INSERT INTO stagiaire VALUES (@id_stagiaire,@nom,@prenom,@date_naissance,@sexe,@nom_programme)";
+
+            // Définir la requête à exécuter sur la BD
+            SqlCommand command = new SqlCommand(queryAddStagiaire, conBD);
+
+            command.CommandType = CommandType.Text;
+
+            // Récupérer les valeurs à mettre dans les paramètres de la requête 
+            command.Parameters.AddWithValue("@id_stagiaire", numéro);
+            command.Parameters.AddWithValue("@nom", nom);
+            command.Parameters.AddWithValue("@prénom", prénom);
+            command.Parameters.AddWithValue("@date_naissance", dateDeNaissance);
+            command.Parameters.AddWithValue("@sexe", sexe);
+            command.Parameters.AddWithValue("@nom_programme", nomProgramme);
+
+            // Ouvrir la connexion
+            conBD.Open();
+
+            // Exécuter la requête SQL
+            command.ExecuteNonQuery();
+
+            // Fermer la connexion
+            conBD.Close();
+
+            // Charge les comboBoxes dans le menu stagiaire et consulter
+            Charger_programmeStagiaire();
+            Charger_programmeConsulter();
+
+            // Affiche un message de confirmation à l'utilisateur
+            MessageBox.Show("Stagiaire ajouté !", "Confirmation d'ajout");
+        }
+        /// <summary>
+        /// Méthode qui supprime un programme de la table programme à travers son numéro.
+        /// </summary>
+        /// <param name="numero"></param>
+        private void SupprimerStagiaire()
+        {
+            int.TryParse(textBoxNumero.Text, out int numero);
+            conBD.Open(); //ouvrir la connexion
+
+            try
+            {
+                //Définir la requête à exécuter sur la BD
+                SqlCommand command = new SqlCommand("DELETE FROM programme WHERE id_stagiaire = " + numero + "", conBD);
+
+                //executer la requête
+                command.ExecuteNonQuery();
+                conBD.Close(); //Fermer la connexion
+
+                //charge les comboboxes dans menu stagiaire et consulter
+                Charger_programmeStagiaire();
+                Charger_programmeConsulter();
+
+                //message afficher à l'utilisateur
+                MessageBox.Show("Opération réussie !", "Confirmation de suppression");
+            }
+            catch
+            {
+                MessageBox.Show("Opération échoué !", "Veuillez mettre des entrées valides");
+            }
+        }
 
         /// <summary>
         /// Méthode associée au Button qui supprime un programme dans la liste des programmes.
@@ -295,8 +363,6 @@ namespace Projet_App_Bureau
             }
         }
 
-        
-
         /// <summary>
         /// Faire une mise a jour du combos Box chaque fois qu'on modifie la liste.
         /// </summary>
@@ -317,19 +383,185 @@ namespace Projet_App_Bureau
             comboBoxConsulter.Text = temp;
         }
 
+        // **************************************** Interface Stagiaires ************************************************
+        /// <summary>
+        /// Méthode qui ajoute un stagiaire dans la base de donnée
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void buttonAjouterStagiaire_Click(object sender, RoutedEventArgs e)
         {
+            // ***************** Section 1: Déclaration des variables du stagiaire ******************
+            int numero = 0;
+            string nom = formatTitre.ToTitleCase(textBoxNom.Text);
+            string prenom = formatTitre.ToTitleCase(textBoxPrenom.Text);
+            DateTime dateDeNaissance = new DateTime();
+            string sexe = "";
+            string nomProgramme = "";
 
+            // ***************** Section 2: Vérification des inputs ********************************
+
+            bool radioButtonMasculin = (bool)radioButton_masculin.IsChecked;
+            bool radioButtonFeminin = (bool)radioButton_feminin.IsChecked;
+            bool radioButtonAutre = (bool)radioButton_autre.IsChecked;
+
+            // #1 S'il y a un input vide
+            if (textBoxNumero.ToString() == "" ||
+                textBoxNom.Text.Length == 0 ||
+                textBoxPrenom.Text.Length == 0 ||
+                datePickerDateDeNaissance.SelectedDate == null ||
+                ((bool)!radioButton_masculin.IsChecked &&
+                (bool)!radioButton_feminin.IsChecked &&
+                (bool)!radioButton_autre.IsChecked) ||
+                comboBoxProgrammes.SelectedValue == null)
+            {
+                // Affiche un message d'erreur
+                MessageBox.Show("SVP veuillez remplire toutes les cases !");
+            }
+            // #2 S'il n'y a aucun input vide
+            else
+            {
+                try
+                {
+                    // #1 valider le numéro
+                    numero = Int32.Parse(textBoxNumero.Text);
+
+                    // #2 valider le nom
+                    bool nomValide = true;
+
+                    // Vérifier si tous les caractères sont des lettres seulement
+                    /// Source: https://stackoverflow.com/questions/1181419/verifying-that-a-string-contains-only-letters-in-c-sharp
+                    foreach (char character in textBoxNom.Text.ToString())
+                    {
+                        if (!Char.IsLetter(character))
+                        {
+                            nomValide = false;
+                        }
+                    }
+                    // Si le nom n'est pas valide
+                    if (nomValide == false)
+                    {
+                        MessageBox.Show("SVP veuillez entrez un nom valide !");
+                        textBoxNom.Text = "";
+                    }
+
+                    // #3 Valider le prénom
+                    bool prenomValide = true;
+
+                    // Vérifier si tous les caractères sont des lettres seulement
+                    /// Source: https://stackoverflow.com/questions/1181419/verifying-that-a-string-contains-only-letters-in-c-sharp
+                    foreach (char character in textBoxPrenom.Text.ToString())
+                    {
+                        if (!Char.IsLetter(character))
+                        {
+                            prenomValide = false;
+                        }
+                    }
+                    // Si le prénom n'est pas valide
+                    if (prenomValide == false)
+                    {
+                        MessageBox.Show("SVP veuillez entrez un prénom valide !");
+                        textBoxPrenom.Text = "";
+                    }
+
+                    // #4 Valider le datePicker Date
+                    if (datePickerDateDeNaissance.SelectedDate != null)
+                    {
+                        dateDeNaissance = datePickerDateDeNaissance.SelectedDate.Value.Date;
+                    }
+
+                    // #5 Valider radioButton sexe 
+                    if (radioButtonMasculin)
+                    {
+                        sexe = "Masculin";
+                    }
+                    else if (radioButtonFeminin)
+                    {
+                        sexe = "Féminin";
+                    }
+                    else if (radioButtonAutre)
+                    {
+                        sexe = "Autre";
+                    }
+
+                    // #6 ComboBox programmes
+                    if (comboBoxProgrammes.SelectedValue != null)
+                    {
+                        nomProgramme = comboBoxProgrammes.SelectedValue.ToString();
+                    }
+
+                    // **************** Section 3: Créer un nouveau stagiaire *****************************
+                    if (nomValide && prenomValide)
+                    {
+                        // Query qui va au travers de chque "id_stagiaire" de la table stagiaire
+                        SqlCommand command = new SqlCommand("SELECT id_stagiaire FROM stagiaire", conBD);
+                        conBD.Open(); //ouvrir la connexion
+
+                        // lire les enregistrements collectées suite à l'exécution du command
+                        SqlDataReader dataReader = command.ExecuteReader();
+
+                        // Si le query ne retourne aucun résultat, on peut ajouter le nouveau stagiaire
+                        // Source: https://stackoverflow.com/questions/36447590/check-if-query-result-is-null-in-c-sharp
+                        if (!dataReader.HasRows)
+                        {
+                            AjouterStagiaire(numero, nom, prenom, dateDeNaissance.ToString(), sexe, nomProgramme);
+                        }
+                        // Si le stagiaire existe déjà, on retourne une erreur
+                        else if (dataReader.HasRows)
+                        {
+                            // Affiche un message d'erreur 
+                            MessageBox.Show("Ce numéro de stagiaire existe déjà, veuillez utilisé un autre numéro.");
+                        }
+
+                        //fermer la connexion avec la BD
+                        conBD.Close();
+
+                        // #4  Effacer le contenu de tous les champs dans le menu stagiaires
+                        textBoxNumero.Text = "";
+                        textBoxPrenom.Text = "";
+                        textBoxNom.Text = "";
+                        datePickerDateDeNaissance.SelectedDate = null;
+                        radioButton_masculin.IsChecked = false;
+                        radioButton_feminin.IsChecked = false;
+                        radioButton_autre.IsChecked = false;
+                        comboBoxProgrammes.SelectedIndex = -1;  // Remet le comboBox à son état initial
+                    }
+                }
+                catch (FormatException)
+                {
+                    // Affiche un message d'erreur
+                    MessageBox.Show("SVP veuillez entrez une valeur valide !");
+                }
+
+                // reinitailise les combosBox et le dataGrid
+                InitialisationDesComposants();
+            }
         }
-
+        /// <summary>
+        /// Méthode qui supprime un stagiaire dans la base de donnée
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void buttonSupprimerStagiaire_Click(object sender, RoutedEventArgs e)
         {
+            SupprimerStagiaire();
 
+            dgSimple.ItemsSource = "";
+
+            // Pour mettre à jour le comboBox "programmes" dans le menu Stagiaire
+            InitialisationDesComposants();
         }
 
         private void buttonEffacerStagiaire_Click(object sender, RoutedEventArgs e)
         {
-
+            textBoxNumero.Text = "";
+            textBoxPrenom.Text = "";
+            textBoxNom.Text = "";
+            datePickerDateDeNaissance.SelectedDate = null;
+            radioButton_masculin.IsChecked = false;
+            radioButton_feminin.IsChecked = false;
+            radioButton_autre.IsChecked = false;
+            comboBoxProgrammes.SelectedIndex = -1;  // Remet le comboBox à son état initial
         }
 
         private void ButtonRecherche_Click(object sender, RoutedEventArgs e)
