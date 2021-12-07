@@ -5,8 +5,6 @@
  * Date: 2021-11-30
  */
 
-
-
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -27,7 +25,7 @@ namespace Projet_App_Bureau
         private SqlConnection conBD;
 
         //Déclaration et initialisation de la liste des programmes.
-       // private List<Programme> listeProgrammes = new List<Programme>();
+        // private List<Programme> listeProgrammes = new List<Programme>();
 
         // Lien pour transformer un string en format titre
         // Source : https://docs.microsoft.com/en-us/dotnet/api/system.globalization.textinfo.totitlecase?view=net-5.0
@@ -40,14 +38,15 @@ namespace Projet_App_Bureau
 
             //Configuration de la chaine de connexion à la BD
             //on met le @ pour echapper (changer la direction du \)   
- 
-            conBD = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=(localdb)\MSSQLLocalDB;Integrated Security=True;Pooling=False");
+
+            // conBD = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=(localdb)\MSSQLLocalDB;Integrated Security=True;Pooling=False");
+            //conBD = new SqlConnection(@"Server = localhost\SQLEXPRESS; Database = master; Trusted_Connection = True;");
+            conBD = new SqlConnection("Server=localhost\\SQLEXPRESS;Database=projet-app-bureau;Trusted_Connection=True;");
 
             //initialisation du datagrid, pour ne pas avoir des Row vide dans l'interface on le met a false.
             dgSimple.CanUserAddRows = false;
 
-            //charge les comboboxes dans menu stagiaire et consulter
-            Charger_programmeStagiaire();
+            //charge les comboboxes dans menu stagiaire et consulter           
             Charger_programmeConsulter();
 
             //charger la liste etudiant
@@ -77,7 +76,11 @@ namespace Projet_App_Bureau
             }
 
             //fermer la connexion avec la BD
-            conBD.Close();
+            //conBD.Close();
+            if (conBD.State == ConnectionState.Open)
+            {
+                conBD.Close();
+            }
         }
 
 
@@ -85,12 +88,12 @@ namespace Projet_App_Bureau
         /// Remplir les comboBox du menu consulter avec la table programme de la BD
         /// </summary>
         private void Charger_programmeConsulter()
-        {         
+        {
             //mettre les commande SQL en spécifiant la connexion à chercher
             //chercher les id de programme pour populer le combobox
-            SqlCommand command = new SqlCommand("SELECT Id_programme FROM programme", conBD);
+            SqlCommand command = new SqlCommand("SELECT id_programme FROM programme", conBD);
             conBD.Open(); //ouvrir la connexion
-           
+
             // lire les enregistrements colelctées suite à l'exécution de la requête 2
             SqlDataReader dataReader = command.ExecuteReader();
 
@@ -101,7 +104,11 @@ namespace Projet_App_Bureau
             }
 
             //fermer la connexion avec la BD
-            conBD.Close();
+            //conBD.Close();
+            if (conBD.State == ConnectionState.Open)
+            {
+                conBD.Close();
+            }
         }
         /// <summary>
         /// Remplir le datagrid avec la table stagiaire de la BD
@@ -113,18 +120,22 @@ namespace Projet_App_Bureau
             // SqlCommand command = new SqlCommand("SELECT * FROM stagiaire S, DATEDIFF(year, 'date_naissance', GETDATE()) AS age" +
             //    "JOIN programme p ON P.nom_programme=s.nom_programme WHERE p.Id_programme='" + comboBoxConsulter.SelectedValue.ToString() +"'" , conBD);
 
-            SqlCommand command = new SqlCommand("SELECT * FROM stagiaire",conBD);
+            SqlCommand command = new SqlCommand("SELECT * FROM stagiaire", conBD);
             conBD.Open(); //ouvrir la connexion
-            
 
-            // lire les enregistrements colelctées suite à l'exécution de la requête
+
+            // lire les enregistrements collectées suite à l'exécution de la requête
             SqlDataReader dataReader = command.ExecuteReader();
 
             // stocker les données lues par DataReader dans DataTable
             DataTable dt = new DataTable();
             dt.Load(dataReader);
 
-            conBD.Close(); //Fermer la connexion
+            //conBD.Close(); //Fermer la connexion
+            if (conBD.State == ConnectionState.Open)
+            {
+                conBD.Close();
+            }
 
             dgSimple.ItemsSource = dt.DefaultView;  //chargement de DataGrid avec les données de la BD
 
@@ -151,7 +162,7 @@ namespace Projet_App_Bureau
                 if (!int.TryParse(txtNumeroProgramme.Text, out numeroProgramme) || int.Parse(txtNumeroProgramme.Text) <= 0 || txtNumeroProgramme.Text == "")
                 {
                     //mettre la bordure du textbox en rouge pour avertir l'utilisateur
-                    txtNumeroProgramme.BorderBrush = Brushes.Red;               
+                    txtNumeroProgramme.BorderBrush = Brushes.Red;
                     MessageBox.Show("SVP veuillez entrez un numéro valide positif !");
                 }
 
@@ -159,21 +170,21 @@ namespace Projet_App_Bureau
                 else if (txtNomProgramme.Text == "" || int.TryParse(txtNomProgramme.Text, out int n))
                 {
                     //mettre la bordure du textbox en rouge pour avertir l'utilisateur
-                    txtNomProgramme.BorderBrush = Brushes.Red;                  
+                    txtNomProgramme.BorderBrush = Brushes.Red;
                     MessageBox.Show("SVP veuillez entrez un nom valide !");
                 }
 
                 // Si le textBox de "durée programme" n'est pas vide ou n'est pas un nombre positif
-                else if (!int.TryParse(txtDureeProgramme.Text, out dureeProgramme) || int.Parse(txtDureeProgramme.Text) < 0 || txtDureeProgramme.Text=="")
+                else if (!int.TryParse(txtDureeProgramme.Text, out dureeProgramme) || int.Parse(txtDureeProgramme.Text) < 0 || txtDureeProgramme.Text == "")
                 {
                     //mettre la bordure du textbox en rouge pour avertir l'utilisateur
-                    txtDureeProgramme.BorderBrush = Brushes.Red;               
+                    txtDureeProgramme.BorderBrush = Brushes.Red;
                     MessageBox.Show("SVP veuillez entrez une durée valide en semaine!");
                 }
 
                 // on peut passer à l'étape de création d'un nouveau programme
                 else
-                {   
+                {
                     //ajouter un nouveau programme dans la table programme dans la BD
                     AjouterProgramme();
                 }
@@ -187,18 +198,18 @@ namespace Projet_App_Bureau
             // remettre la bordure des textboxes à leur couleur initiale
             txtNumeroProgramme.BorderBrush = Brushes.LightBlue;
             txtDureeProgramme.BorderBrush = Brushes.LightBlue;
-            txtNomProgramme.BorderBrush = Brushes.LightBlue;  
-            
+            txtNomProgramme.BorderBrush = Brushes.LightBlue;
+
             // Pour mettre à jour le comboBox "programmes" dans le menu Stagiaire
             InitialisationDesComposants();
         }
 
         /// <summary>
-        /// Méthode qui ajoute un nouveau programme dans la liste des programmes.
+        /// Méthode qui ajoute un nouveau programme dans la base de données.
         /// </summary>
         /// <param name="P"></param>
         private void AjouterProgramme()
-        { 
+        {
             // Ma requête, on les precède de @ POUR DIRE QUE CE SONT DES PARAMÈTRES
             string maRequete = "INSERT INTO programme VALUES (@nom,@duree)";
 
@@ -208,13 +219,17 @@ namespace Projet_App_Bureau
 
             //Récupérer les valeurs à mettre dans les paramètres de la requête 
             command.Parameters.AddWithValue("@nom", txtNomProgramme.Text);
-            command.Parameters.AddWithValue("@duree", txtDureeProgramme.Text);            
+            command.Parameters.AddWithValue("@duree", txtDureeProgramme.Text);
 
             conBD.Open(); //ouvrir la connexion
-                            //executer la requête
+                          //executer la requête
             command.ExecuteNonQuery();
 
-            conBD.Close(); //Fermer la connexion
+            //conBD.Close(); //Fermer la connexion
+            if (conBD.State == ConnectionState.Open)
+            {
+                conBD.Close();
+            }
 
             //charge les comboboxes dans menu stagiaire et consulter
             Charger_programmeStagiaire();
@@ -235,34 +250,58 @@ namespace Projet_App_Bureau
 
             // Ma requête, on les precède de @ POUR DIRE QUE CE SONT DES PARAMÈTRES
             //   string maRequete = "DELETE FROM eprogramma WHERE id_programme=txtNumeroProgramme.Txt";
-            try {
+            try
+            {
                 //Définir la requête à exécuter sur la BD
-                SqlCommand command = new SqlCommand("DELETE FROM programme WHERE Id_programme = " + numero + "", conBD);  
-            
-            //executer la requête
-            command.ExecuteNonQuery();
-            conBD.Close(); //Fermer la connexion
+                SqlCommand command = new SqlCommand("DELETE FROM programme WHERE Id_programme = " + numero + "", conBD);
 
-            //charge les comboboxes dans menu stagiaire et consulter
-            Charger_programmeStagiaire();
-            Charger_programmeConsulter();
+                //executer la requête
+                command.ExecuteNonQuery();
+                //conBD.Close(); //Fermer la connexion
+                if (conBD.State == ConnectionState.Open)
+                {
+                    conBD.Close();
+                }
+
+                //charge les comboboxes dans menu stagiaire et consulter
+                Charger_programmeStagiaire();
+                Charger_programmeConsulter();
 
                 //message afficher à l'utilisateur
                 MessageBox.Show("Opération réussie !", "Confirmation de suppression");
+
             }
             catch
             {
                 MessageBox.Show("Opération échoué !", "Veuillez mettre des entrées valides");
             }
         }
+
+
         /// <summary>
         /// Méthode qui ajoute un nouveau stagiaire dans la liste des programmes.
         /// </summary>
         /// <param name="P"></param>
         private void AjouterStagiaire(int numéro, string nom, string prénom, string dateDeNaissance, string sexe, string nomProgramme)
         {
+            // Get id_programme
+            conBD.Close();
+            conBD.Open();
             // Requête SQL pour ajouter un nouveau stagiaire,  @paramètres
-            string queryAddStagiaire = "INSERT INTO stagiaire VALUES (@id_stagiaire,@nom,@prenom,@date_naissance,@sexe,@nom_programme)";
+
+            string queryGetIdProgramme = "select id_programme from programme where nom_programme = '" + nomProgramme + "';";
+
+            SqlCommand command_getIdProgramme = new SqlCommand(queryGetIdProgramme, conBD);
+            command_getIdProgramme.CommandType = CommandType.Text;
+
+            command_getIdProgramme.ExecuteNonQuery();
+            //command_getIdProgramme.ExecuteReader();
+            String result = command_getIdProgramme.ExecuteScalar().ToString();
+
+            //***********************************
+
+            // Requête SQL pour ajouter un nouveau stagiaire, @paramètres
+            string queryAddStagiaire = "INSERT INTO stagiaire VALUES (@nom_stagiaire,@prenom_stagiaire,@sexe_stagiaire,@date_naissance,@id_programme)";
 
             // Définir la requête à exécuter sur la BD
             SqlCommand command = new SqlCommand(queryAddStagiaire, conBD);
@@ -270,21 +309,28 @@ namespace Projet_App_Bureau
             command.CommandType = CommandType.Text;
 
             // Récupérer les valeurs à mettre dans les paramètres de la requête 
-            command.Parameters.AddWithValue("@id_stagiaire", numéro);
-            command.Parameters.AddWithValue("@nom", nom);
-            command.Parameters.AddWithValue("@prénom", prénom);
+            command.Parameters.AddWithValue("@nom_stagiaire", nom);
+            command.Parameters.AddWithValue("@prenom_stagiaire", prénom);
+            command.Parameters.AddWithValue("@sexe_stagiaire", sexe);
             command.Parameters.AddWithValue("@date_naissance", dateDeNaissance);
-            command.Parameters.AddWithValue("@sexe", sexe);
-            command.Parameters.AddWithValue("@nom_programme", nomProgramme);
+            command.Parameters.AddWithValue("@id_programme", result);
 
             // Ouvrir la connexion
+            /*if (conBD.State == System.Data.ConnectionState.Closed) {
+                conBD.Open();
+            }*/
+            conBD.Close();
             conBD.Open();
-
             // Exécuter la requête SQL
             command.ExecuteNonQuery();
+            //command.ExecuteReader();
 
             // Fermer la connexion
-            conBD.Close();
+            //conBD.Close(); 
+            if (conBD.State == ConnectionState.Open)
+            {
+                conBD.Close();
+            }
 
             // Charge les comboBoxes dans le menu stagiaire et consulter
             Charger_programmeStagiaire();
@@ -305,11 +351,15 @@ namespace Projet_App_Bureau
             try
             {
                 //Définir la requête à exécuter sur la BD
-                SqlCommand command = new SqlCommand("DELETE FROM programme WHERE id_stagiaire = " + numero + "", conBD);
+                SqlCommand command = new SqlCommand("DELETE FROM stagiaire WHERE id_stagiaire = " + numero + "", conBD);
 
                 //executer la requête
                 command.ExecuteNonQuery();
-                conBD.Close(); //Fermer la connexion
+                //conBD.Close(); //Fermer la connexion
+                if (conBD.State == ConnectionState.Open)
+                {
+                    conBD.Close();
+                }
 
                 //charge les comboboxes dans menu stagiaire et consulter
                 Charger_programmeStagiaire();
@@ -363,10 +413,12 @@ namespace Projet_App_Bureau
             }
         }
 
+
+
         /// <summary>
         /// Faire une mise a jour du combos Box chaque fois qu'on modifie la liste.
         /// </summary>
-        void InitialisationDesComposants() 
+        void InitialisationDesComposants()
         {
             //Initialiser le combo box avec les numéro de programme.
             //nom temporaire pour stocker le numero du programme
@@ -514,7 +566,11 @@ namespace Projet_App_Bureau
                         }
 
                         //fermer la connexion avec la BD
-                        conBD.Close();
+                        //conBD.Close();
+                        if (conBD.State == ConnectionState.Open)
+                        {
+                            conBD.Close();
+                        }
 
                         // #4  Effacer le contenu de tous les champs dans le menu stagiaires
                         textBoxNumero.Text = "";
@@ -551,7 +607,11 @@ namespace Projet_App_Bureau
             // Pour mettre à jour le comboBox "programmes" dans le menu Stagiaire
             InitialisationDesComposants();
         }
-
+        /// <summary>
+        /// Méthode qui efface le contenu de tous les champs dans le menu stagiaires
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void buttonEffacerStagiaire_Click(object sender, RoutedEventArgs e)
         {
             textBoxNumero.Text = "";
