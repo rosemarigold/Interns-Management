@@ -416,3 +416,322 @@ C:\Users\Chuu\Documents\I_JUST_WANNA_SLEEP\application_bureau_projet2\Projet-App
 C:\Users\Chuu\Documents\I_JUST_WANNA_SLEEP\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
 C:\Users\Chuu\Documents\I_JUST_WANNA_SLEEP\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
 C:\Users\Chuu\Documents\I_JUST_WANNA_SLEEP\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\Programme La Cité Automne 2021\Devéloppement d'application de bureau\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV\application_bureau_projet_pt2\application_bureau_projet2_10_dec\application_bureau_projet2\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet 2\application_bureau_projet2_10_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\APP DEV-11 dec\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_11_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\USER\Desktop\test programme appli bureau\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\luxce\Dropbox\My PC (DESKTOP-EA7S6BR)\Desktop\application_bureau_projet2_12_dec\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csprojAssemblyReference.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+D:\3eme semestre\Developpement appl bureau\Projet 2\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Downloads\Projet App Bureau Dec 14\Projet App Bureau Dec 14\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.exe
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.deps.json
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.json
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.runtimeconfig.dev.json
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.AssemblyReference.cache
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.cache
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau_MarkupCompile.lref
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.g.resources
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfoInputs.cache
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.AssemblyInfo.cs
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CoreCompileInputs.cache
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.csproj.CopyComplete
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\ref\Projet-App-Bureau.dll
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.pdb
+C:\Users\Chuu\Documents\PW\APP DEV\interns_management\Projet-App-Bureau\obj\Debug\net5.0-windows\Projet-App-Bureau.genruntimeconfig.cache
